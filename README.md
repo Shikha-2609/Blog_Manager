@@ -1,4 +1,4 @@
-# Blog_Manager
+# Blog_Manager.github.io
 
 ## You need:
 - NodeJs
